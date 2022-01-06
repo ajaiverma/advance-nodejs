@@ -1,0 +1,23 @@
+{
+  "name": "working",
+  "version": "1.0.0",
+  "description": "Advance NodeJS",
+  "main": "01 hide string.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaiverma/advance-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaiverma/advance-nodejs/issues"
+  },
+  "homepage": "https://github.com/ajaiverma/advance-nodejs#readme",
+  "dependencies": {
+    "multiparty": "^4.2.2"
+  }
+}
